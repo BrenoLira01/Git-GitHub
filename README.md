@@ -3,14 +3,6 @@
 
 Respositório pra estudos de Git e Github.
 
-## Como pegar, enviar e clonar:
-
-pegar: ```git pull```
-
-enviar: ```git push```
-
-clonar: ```git clone URL do repositório```
-
 ## Configurações globais: 
 
 ```
@@ -43,8 +35,15 @@ git branch -M main
 git push -u origin main
 ```
 
-## Branch
+## Como pegar, enviar e clonar:
 
+pegar: ```git pull```
+
+enviar: ```git push```
+
+clonar: ```git clone URL do repositório```
+
+## Branch
 
  clonar uma branch: ```git clone URL --branch feature-l --single-branch```
 
